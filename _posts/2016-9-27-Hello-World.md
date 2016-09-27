@@ -3,7 +3,7 @@ layout: post
 title: Hello World
 ---
 
-'''java
+```java
 String str = "Hello World!";
 System.out.println(str);
-'''
+```
