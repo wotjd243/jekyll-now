@@ -31,3 +31,8 @@ README 파일이나 온라인 문서, 혹은 일반 텍스트 편집기로 문�
 셋째 문장.
 ``` 
 
+```java
+String str = "Hello World!";
+System.out.println(str);
+```
+
